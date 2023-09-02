@@ -27,5 +27,5 @@ The key aspects were:
 - Documented observations on TCP vs UDP performance and behavior under different network conditions
 
 <p align="center">
-  <img src="https://github.com/MelvinMo/CN-Archive/blob/main/Project%202/Pictures/TCP/TCP%20-%20Ideal/Screenshot%20%20-%20Ideal.png" alt="IMG" />
+  <img src="https://github.com/MelvinMo/CN-Archive/blob/main/Project%202/Pictures/TCP/TCP%20-%20Ideal/Graph%20-%20Ideal.png" alt="IMG" />
 </p>
