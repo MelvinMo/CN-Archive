@@ -25,3 +25,7 @@ The key aspects were:
 - Compared throughput values and retransmissions for TCP under different network scenarios
 - Observed lack of feedback and error correction in UDP compared to TCP
 - Documented observations on TCP vs UDP performance and behavior under different network conditions
+
+<p align="center">
+  <img src="https://github.com/MelvinMo/CN-Archive/blob/main/Project%202/Pictures/TCP/TCP%20-%20Ideal/Screenshot%20%20-%20Ideal.png" alt="IMG" />
+</p>
