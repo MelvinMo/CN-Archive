@@ -13,7 +13,7 @@ The key aspects were:
 - Analyzed the TCP handshake, packets transferred, and control vs data connections using Wireshark
 - Documented the project with screenshots demonstrating the FTP session between client and server
 
-Project 2: Analysis of Transport Layer Protocols (TCP and UDP)
+## Project 2: Analysis of Transport Layer Protocols (TCP and UDP)
 
 This project involved studying the impact of network conditions like delay, loss, and bandwidth on TCP and UDP protocol performance.
 
