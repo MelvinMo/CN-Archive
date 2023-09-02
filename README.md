@@ -1,5 +1,5 @@
 # CN-Archive
-This repository houses two of my computer network projects: implementing FTP client-servers in Python and analyzing TCP/UDP performance in diverse network scenarios.
+This repository houses two of my computer network projects: implementing an FTP client-server scenario in Python and analyzing TCP/UDP performance in diverse network scenarios.
 
 ## Project 1: Implementing a Basic FTP Client and Server
 
